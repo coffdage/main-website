@@ -4,17 +4,8 @@
   "embeds": [
     {
       "color": 16734296,
-      "author": {
-        "name": "Gozze Organisation",
-        "url": "https://github.com/coffdage",
-        "icon_url": "https://cdn.discordapp.com/embed/avatars/0.png"
-      },
       "title": "◈ Gozze — Community",
-      "url": "https://coffdage.com",
       "description": "Witaj na oficjalnym serwerze **Gozze - Community**!\n\nZnajdziesz tutaj społeczność, projekty technologiczne, dyskusje, pomoc oraz informacje o naszych inicjatywach.\n\n> Tworzymy społeczność dla ludzi, którzy chcą rozwijać swoje zainteresowania i dzielić się wiedzą.",
-      "thumbnail": {
-        "url": "https://cdn.discordapp.com/embed/avatars/1.png"
-      },
       "fields": [
         {
           "name": "☆ Informacje",
@@ -42,13 +33,6 @@
           "inline": false
         }
       ],
-      "image": {
-        "url": "https://placehold.co/1200x400/0b0e11/ff583d.png?text=GOZZE+COMMUNITY"
-      },
-      "footer": {
-        "text": "Gozze Organisation • System informacyjny",
-        "icon_url": "https://cdn.discordapp.com/embed/avatars/0.png"
-      },
       "timestamp": "2026-10-24T21:00:00.000Z"
     }
   ],
