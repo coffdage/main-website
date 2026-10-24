@@ -1,0 +1,80 @@
+
+{
+  "content": " ",
+  "embeds": [
+    {
+      "color": 16734296,
+      "author": {
+        "name": "Gozze Organisation",
+        "url": "https://github.com/coffdage",
+        "icon_url": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "title": "◈ Gozze — Community",
+      "url": "https://coffdage.com",
+      "description": "Witaj na oficjalnym serwerze **Gozze - Community**!\n\nZnajdziesz tutaj społeczność, projekty technologiczne, dyskusje, pomoc oraz informacje o naszych inicjatywach.\n\n> Tworzymy społeczność dla ludzi, którzy chcą rozwijać swoje zainteresowania i dzielić się wiedzą.",
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "fields": [
+        {
+          "name": "☆ Informacje",
+          "value": "• **Typ:** Community\n• **Język:** Polski\n• **Status:** Online",
+          "inline": true
+        },
+        {
+          "name": "◈ Technologie",
+          "value": "• Linux\n• Programowanie\n• Projekty open source",
+          "inline": true
+        },
+        {
+          "name": "╭・Zasady serwera",
+          "value": "1. Szanuj innych użytkowników.\n2. Nie spamuj.\n3. Przestrzegaj regulaminu Discord.\n4. Korzystaj z odpowiednich kanałów.",
+          "inline": false
+        },
+        {
+          "name": "⌘ Przydatne linki",
+          "value": "[GitHub](https://github.com/coffdage) ・ [Strona](https://coffdage.com)",
+          "inline": false
+        },
+        {
+          "name": "📊 Statystyki projektu",
+          "value": "```yaml\nOrganizacja: Gozze\nProjekt: Community\nWersja: 1.0.0\nStatus: Development\n```",
+          "inline": false
+        }
+      ],
+      "image": {
+        "url": "https://placehold.co/1200x400/0b0e11/ff583d.png?text=GOZZE+COMMUNITY"
+      },
+      "footer": {
+        "text": "Gozze Organisation • System informacyjny",
+        "icon_url": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "timestamp": "2026-10-24T21:00:00.000Z"
+    }
+  ],
+  "components": [
+    {
+      "type": 1,
+      "components": [
+        {
+          "type": 2,
+          "style": 5,
+          "label": "GitHub",
+          "url": "https://github.com/coffdage",
+          "emoji": {
+            "name": "⌘"
+          }
+        },
+        {
+          "type": 2,
+          "style": 5,
+          "label": "Strona internetowa",
+          "url": "https://coffdage.com"
+        }
+      ]
+    }
+  ],
+  "allowed_mentions": {
+    "parse": []
+  }
+}
